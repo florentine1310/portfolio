@@ -5,8 +5,8 @@ export const attributes = {
       link: '/#portfolio',
       text: 'Portfolio',
     },
-    heading: "I'm Paco Cu, and I create",
-    image: '/img/hero.jpeg',
+    heading: "I'm Florentine Ramböck, and I want to develop",
+    image: '/img/hero-new.jpeg',
     secondButton: { icon: 'whatsapp', link: '/#about', text: 'About me' },
     social: {
       facebook: { link: 'https://facebook.com', show: true },
@@ -14,15 +14,15 @@ export const attributes = {
       linkedin: { link: 'https://linkedin.com', show: true },
     },
     typed: [
-      { text: 'fast websites.' },
-      { text: 'beautiful logos.' },
-      { text: 'great experiences.' },
+      { text: 'websites.' },
+      { text: 'eCommerce shops.' },
+      { text: 'mobile Apps.' },
     ],
   },
   about: {
     heading: 'Who am I?',
     image: '/img/about.jpeg',
-    text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel dapibus mi, sit amet consequat leo. Integer non dolor non elit sodales consequat. Integer tempor sollicitudin massa, vel sollicitudin ante dictum eu.\n',
+    text: 'I am a student at Upleveled in Vienna, who wants to learn web development to create my own Websites, Shops and Applications.\n',
   },
   features: [
     {
